@@ -33,4 +33,8 @@
 
 #### In summary, the Multiple Disease Prediction application is a user-friendly tool that uses machine learning algorithms to predict the likelihood of a person having diabetes, heart disease, or Parkinson's disease. By following the above steps, users can easily use this application to make informed decisions about their health.
 
+<<<<<<< HEAD
 #### Document Link : <a href="https://docs.google.com/document/d/17BQyZU0rE5WBRDx_bL8X7WOmgwfvLaJG_NXv8HkWBhs/edit?usp=sharing">Final Report Link</a>
+=======
+#### Document Link : <a href="https://docs.google.com/document/d/17BQyZU0rE5WBRDx_bL8X7WOmgwfvLaJG_NXv8HkWBhs/edit?usp=sharing">Final Report Link</a>
+>>>>>>> 7326e7e6780f2637aed3f7b7a5c186927438e825
